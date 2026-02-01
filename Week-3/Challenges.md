@@ -16,10 +16,10 @@
 - **LeetCode Link:** https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/submissions/1579258176/ 
    
 
-### 4. LeetCode 3589 – ⚠️ (Verify problem title on LeetCode)  
+### 4. LeetCode 3589 – Count Prime-Gap Balanced Subarrays 
 - **Difficulty:** Medium  
 - **LeetCode Link:** https://leetcode.com/problems/3589/  
-- **My Solution:** YOUR_LEETCODE_LINK_HERE  
+ 
 
 ---
 
@@ -27,12 +27,12 @@
 ### 5. LeetCode 950 – Reveal Cards In Increasing Order  
 - **Difficulty:** Hard  
 - **LeetCode Link:** https://leetcode.com/problems/reveal-cards-in-increasing-order/  
-- **My Solution:** YOUR_LEETCODE_LINK_HERE  
+ 
 
 ### 6. LeetCode 1696 – Jump Game VI  
 - **Difficulty:** Hard  
 - **LeetCode Link:** https://leetcode.com/problems/jump-game-vi/  
-- **My Solution:** YOUR_LEETCODE_LINK_HERE  
+
 
 
 
