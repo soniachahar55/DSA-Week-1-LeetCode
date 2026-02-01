@@ -8,8 +8,8 @@
 
 ### 2. LeetCode 1823 – Find the Winner of the Circular Game  
 - **Difficulty:** Medium  
-- **LeetCode Link:** https://leetcode.com/problems/find-the-winner-of-the-circular-game/  
-- **My Solution:** YOUR_LEETCODE_LINK_HERE  
+- **LeetCode Link:** https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/1904523184/
+-   
 
 ### 3. LeetCode 3191 – Minimum Operations to Make Binary Array Elements Equal to One  
 - **Difficulty:** Medium  
