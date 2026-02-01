@@ -2,8 +2,7 @@
 
 ### 1. LeetCode 2073 – Time Needed to Buy Tickets  
 - **Difficulty:** Easy  
-- **LeetCode Link:** https://leetcode.com/problems/time-needed-to-buy-tickets/  
-- **My Solution:** YOUR_LEETCODE_LINK_HERE  
+- **LeetCode Link:** https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1900616685/  
 
 ---
 
