@@ -4,7 +4,6 @@
 - **Difficulty:** Easy  
 - **LeetCode Link:** https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1900616685/  
 
----
 
 ### 2. LeetCode 1823 – Find the Winner of the Circular Game  
 - **Difficulty:** Medium  
@@ -20,8 +19,6 @@
 - **Difficulty:** Medium  
 - **LeetCode Link:** https://leetcode.com/problems/3589/  
  
-
----
 
 
 ### 5. LeetCode 950 – Reveal Cards In Increasing Order  
