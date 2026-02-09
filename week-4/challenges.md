@@ -10,7 +10,7 @@ LeetCode No: 1290
 
 LeetCode No: 2095
 
-🔗 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1892939618/
+🔗 https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1910010973/
 
 
 3) Minimum Pair Removal to Sort Array II
@@ -25,7 +25,7 @@ LeetCode No: 3510
 
 LeetCode No: 2816
 
-🔗https://leetcode.com/problems/count-primes/submissions/1884477199/
+🔗 https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/submissions/1906593733/
 
 
 
@@ -33,11 +33,11 @@ LeetCode No: 2816
 
 LeetCode No: 2289
 
-🔗 https://leetcode.com/problems/first-missing-positive/submissions/1884707848/
+🔗 https://leetcode.com/problems/steps-to-make-array-non-decreasing/submissions/1895451510/
 
 
 6) Next Greater Node In Linked List  
 
 LeetCode No: 1019
 
-🔗 https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1884549930/
+🔗 https://leetcode.com/problems/next-greater-node-in-linked-list/submissions/1909977922/
