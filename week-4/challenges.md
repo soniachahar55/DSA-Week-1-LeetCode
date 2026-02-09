@@ -1,4 +1,4 @@
-1) Convert a Binary Number in a Linked List to an Integer
+1)  Convert a Binary Number in a Linked List to an Integer
 
 LeetCode No: 1290
 
@@ -13,7 +13,7 @@ LeetCode No: 2095
 🔗 https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1910010973/
 
 
-3) Minimum Pair Removal to Sort Array II
+3)  Minimum Pair Removal to Sort Array II
    
 LeetCode No: 3510
 
@@ -21,7 +21,7 @@ LeetCode No: 3510
 
 
 
-4) Double a Number Represented as a Linked List
+4)  Double a Number Represented as a Linked List
    
 LeetCode No: 2816
 
@@ -36,7 +36,7 @@ LeetCode No: 2289
 🔗 https://leetcode.com/problems/steps-to-make-array-non-decreasing/submissions/1895451510/
 
 
-6) Next Greater Node In Linked List
+6)  Next Greater Node In Linked List
     
 LeetCode No: 1019
 
