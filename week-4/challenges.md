@@ -17,7 +17,7 @@ LeetCode No: 2095
    
 LeetCode No: 3510
 
-🔗 https://leetcode.com/problems/3sum/submissions/1516693619/
+🔗 https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/submissions/1913194173/
 
 
 
